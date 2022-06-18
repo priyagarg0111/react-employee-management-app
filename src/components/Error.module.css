@@ -1,0 +1,8 @@
+.errorInput {
+  border: 1px solid red;
+}
+
+.errorHint {
+  color: red;
+  font-size: 12px;
+}
